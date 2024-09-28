@@ -1,1 +1,2 @@
 Test file one.
+line 1 of file 1
